@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+dill
+lightgbm
+pyyaml
+-e .
