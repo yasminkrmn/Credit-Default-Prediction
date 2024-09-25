@@ -1,0 +1,7 @@
+RandomForestClassifier:
+  n_estimators: [100]
+
+LGBMClassifier:
+  n_estimators: [100]
+  objective: ['binary']
+
